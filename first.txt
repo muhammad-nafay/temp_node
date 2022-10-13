@@ -1,0 +1,4 @@
+line from first.txt:
+I have added my own line using readFileSync!
+I have added my own line using readFileSync!
+I have added my own line using readFileSync!
